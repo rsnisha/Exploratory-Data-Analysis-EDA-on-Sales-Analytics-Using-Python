@@ -1,4 +1,4 @@
-# 🚀 Exploratory Data Analysis (EDA) on Sales Analytics Using Python 📊
+# Exploratory Data Analysis (EDA) on Sales Analytics Using Python 📊
 
 This repository showcases an Exploratory Data Analysis (EDA) project aimed at deriving actionable insights from sales data using Python. The goal of this analysis was to explore key sales trends, identify patterns, and provide data-driven insights to inform better decision-making.
 
